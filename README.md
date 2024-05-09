@@ -1,14 +1,10 @@
 # Project Title
+Mancala Game
 
-<!-- Simple Mancala Game GUI
-Two users compete to play mancala, until one wins and game is reset. -->
+## Simple Mancala Game GUI
+## Two users compete to play mancala, until one wins and game is reset.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-<!-- Asks user for ruleset, player name and allows user to click on a pit
-to and execute the turn.  -->
-## Getting Started
+## Asks user for ruleset, player name and allows user to click on a pit to and execute the turn.
 
 ### Dependencies
 
@@ -25,24 +21,19 @@ n/a
 - (open new terminal, copy file path of GP4 and execute)
 - java -jar build/libs/Mancala.jar
 ```
-use code blocks for commands
-<!-- - gradle build
+gradle build
 - gradle echo
-- java -cp build/classes/java/main ui.TextUI -->
+- java -cp build/classes/java/main ui.TextUI
 ```
-* include the expected output
-<!--Output is GUI -->
+
 
 ## Limitations
-
-What isn't done? What things cause errors?  
-<!-- Saving and loading the game -->
+Saving and loading the game
 
 
 ## Author Information
 Name: Pooja Patel
-Student ID: 1225060
-E-mail: ppatel46@uoguelph.ca
+E-mail: poojapatel01012@gmail.com
 
 ## Development History
 
